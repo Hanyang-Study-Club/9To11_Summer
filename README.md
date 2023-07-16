@@ -4,6 +4,7 @@
 - 알고리즘 주제는 스터디 커리큘럼을 참고하며,
 - 10시 30 분에는 개인 공부를 마무리 하고, 오늘 공부한 내용을 서로 공유한다.
 - 당일 1시간 전에도 사유를 말하지 않고 불참 / 지각시, 불참비 만원 지각비 오천원
+- 문제는 [프로그래머스 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 를 푼다.
 
 ### 스터디 커리큘럼
 
