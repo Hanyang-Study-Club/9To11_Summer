@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class Solution {
+    public int[] solution(int []arr) {
+        int[] answer;
+
+        ArrayList<Integer> nums = new ArrayList<Integer>();
+        nums.add(arr[0]);
+        int idx = 1;
+        for(int i = 1; i < arr.length; i++){
+            if(nums.get(idx-1) == arr[i]) continue;
+            
+            nums.add(arr[i]);
+            idx++;
+        }
+        
+        answer = nums.stream().mapToInt(Integer::intValue).toArray();
+        
+        return answer;
+    }
+}
