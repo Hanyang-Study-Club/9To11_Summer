@@ -6,10 +6,9 @@ class Solution {
         Arrays.sort(citations);
         
         if(citations[N-1] == 0) return 0;
-        int temp;
         
         for(int h = citations[0]; h <= citations[N-1]; h++){
-            temp=0;
+            int temp=0;
             for(int idx = 0; idx < N; idx++){
                 if(citations[idx] >= h) temp++;
             }
