@@ -7,7 +7,7 @@ using namespace std;
 vector<int> solution(int brown, int yellow) {
 	vector<int> answer;
 
-	int x_out, y_out, x_in, y_in;
+	int x_out, y_out;
 
 	for (int x_out = 1; x_out < brown; x_out++)
 	{
