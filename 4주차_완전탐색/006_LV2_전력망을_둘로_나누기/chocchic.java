@@ -24,8 +24,9 @@ class Solution {
         selected = new boolean[n];
         tree = new HashMap<Integer,ArrayList<Integer>>();
         ArrayList<Integer> temp;// 임시   
-        
-        for(int i = 0; i < wires.length; i++){ // 끊는 경우
+
+        //트리로 만들기
+        for(int i = 0; i < wires.length; i++){
             int node1 = wires[i][0] -1;
             int node2 = wires[i][1] -1;
             
