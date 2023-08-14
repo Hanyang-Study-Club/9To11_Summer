@@ -40,7 +40,7 @@
 <thead>
   <tr>
     <th class="tg-0pky"></th>
-    <th class="tg-c3ow" colspan="6">choccic</th>
+    <th class="tg-c3ow" colspan="6">chocchic</th>
     <th class="tg-c3ow" colspan="6">ChaeLinYeo</th>
     <th class="tg-c3ow" colspan="6">happyOBO</th>
   </tr>
