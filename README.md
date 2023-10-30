@@ -15,5 +15,4 @@
 5. 탐욕법(Greedy)
 6. 동적계획법(Dynamic Programming)
 7. 깊이/너비 우선 탐색(DFS/BFS)
-8. 이분탐색, 그래프
 
